@@ -11,4 +11,4 @@ Summary of Spam Mail Prediction using Machine Learning:
 + Evaluation: Evaluated the performance of the models using appropriate metrics such as accuracy, precision, recall, and F1 score. This helped in understanding how well the models predicted spam emails.
 + Improvement: Experimented with different combinations of algorithms to improve the models' predictive performance.
 + Prediction: Deployed the trained models to predict whether new incoming emails are spam or legitimate, providing an efficient solution for email filtering and security.
-#**Overall, by performing data cleaning, EDA, data preprocessing, model building, evaluation, improvement, and prediction, the project successfully developed a system capable of accurately predicting and classifying spam emails using machine learning techniques.**
+# **Overall, by performing data cleaning, EDA, data preprocessing, model building, evaluation, improvement, and prediction, the project successfully developed a system capable of accurately predicting and classifying spam emails using machine learning techniques.**
