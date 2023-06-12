@@ -12,3 +12,6 @@ Summary of Spam Mail Prediction using Machine Learning:
 + Improvement: Experimented with different combinations of algorithms to improve the models' predictive performance.
 + Prediction: Deployed the trained models to predict whether new incoming emails are spam or legitimate, providing an efficient solution for email filtering and security.
 ### **Overall, by performing data cleaning, EDA, data preprocessing, model building, evaluation, improvement, and prediction, the project successfully developed a system capable of accurately predicting and classifying spam emails using machine learning techniques.**
+
+## CONCLUDING REMARK:
+After conducting a thorough analysis of various algorithms, it has been determined that the Support Vector Classifier (SVC) is the most efficient algorithm for predicting spam mails. With an impressive accuracy of 0.972 and precision of 1.00, the SVC outperformed other algorithms in accurately identifying and classifying spam emails. These results demonstrate the effectiveness of the SVC algorithm in distinguishing between spam and legitimate emails, making it a reliable choice for spam mail prediction tasks.
